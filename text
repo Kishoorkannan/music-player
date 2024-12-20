@@ -1,0 +1,106 @@
+        <!-- Player 1 -->
+        <div class="player">
+            <div class="img-box">
+                <img src="" alt="Audio 1">
+            </div>
+            <div class="title"></div>
+            <audio src="" type="audio/mp3" controls></audio>
+        </div>
+
+        <!-- Player 2 -->
+        <div class="player">
+            <div class="img-box">
+                <img src="" alt="Audio 2">
+            </div>
+            <div class="title"></div>
+            <audio src="" type="audio/mp3" controls></audio>
+        </div>
+
+        <!-- Player 3 -->
+        <div class="player">
+            <div class="img-box">
+                <img src="" alt="Audio 3">
+            </div>
+            <div class="title"></div>
+            <audio src="" type="audio/mp3" controls></audio>
+        </div>
+
+        <!-- Player 4 -->
+        <div class="player">
+            <div class="img-box">
+                <img src="" alt="Audio 4">
+            </div>
+            <div class="title"></div>
+            <audio src="" type="audio/mp3" controls></audio>
+        </div>
+
+        <!-- Player 5 -->
+        <div class="player">
+            <div class="img-box">
+                <img src="" alt="Audio 5">
+            </div>
+            <div class="title"></div>
+            <audio src="" type="audio/mp3" controls></audio>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- Player 1 -->
+        <div class="player">
+            <div class="img-box">
+                <img src="https://i.ytimg.com/vi/L1MLc8GvSLQ/maxresdefault.jpg" alt="Audio 1">
+            </div>
+            <div class="title">Kokkara kokkara ko</div>
+            <audio src="Kokkorakko.mp3" type="audio/mp3" controls></audio>
+        </div>
+
+        <!-- Player 2 -->
+        <div class="player">
+            <div class="img-box">
+                <img src="https://i.ytimg.com/vi/gjnrtCKZqYg/maxresdefault.jpg" alt="Audio 2">
+            </div>
+            <div class="title">Kutty story</div>
+            <audio src="Kutti-Story-MassTamilan.io.mp3" type="audio/mp3" controls></audio>
+        </div>
+
+        <!-- Player 3 -->
+        <div class="player">
+            <div class="img-box">
+                <img src="https://i.ytimg.com/vi/g4KADSMQDL8/maxresdefault.jpg" alt="Audio 3">
+            </div>
+            <div class="title">Life of pazham</div>
+            <audio src="Life-of-Pazham-MassTamilan.dev.mp3" type="audio/mp3" controls></audio>
+        </div>
+
+        <!-- Player 4 -->
+        <div class="player">
+            <div class="img-box">
+                <img src="https://i.ytimg.com/vi/D6oAMwB32Eg/maxresdefault.jpg" alt="Audio 4">
+            </div>
+            <div class="title">Loosu penne</div>
+            <audio src="Loosu-Penne-MassTamilan.org.mp3" type="audio/mp3" controls></audio>
+        </div>
+
+        <!-- Player 5 -->
+        <div class="player">
+            <div class="img-box">
+                <img src="https://m.timesofindia.com/photo/64645241/size-110029/64645241.jpg" alt="Audio 5">
+            </div>
+            <div class="title">Maacho</div>
+            <audio src="Maacho.mp3" type="audio/mp3" controls></audio>
+        </div>
+    
